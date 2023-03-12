@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Exercises
-build_property.ProjectDir = C:\Users\Nikola\Desktop\Repositories\C--Homeworks\Homeworks Class02\Homework Class02\Exercises\
+build_property.RootNamespace = Homework_Array_and_Loops
+build_property.ProjectDir = C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\

@@ -1,0 +1,15 @@
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\bin\Debug\net6.0\Homework Array and Loops.exe
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\bin\Debug\net6.0\Homework Array and Loops.deps.json
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\bin\Debug\net6.0\Homework Array and Loops.runtimeconfig.json
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\bin\Debug\net6.0\Homework Array and Loops.dll
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\bin\Debug\net6.0\Homework Array and Loops.pdb
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.dll
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\refint\Homework Array and Loops.dll
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.pdb
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\Homework Array and Loops.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Homeworks Class03\Homework Array and Loops\Homework Array and Loops\obj\Debug\net6.0\ref\Homework Array and Loops.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikola\\Desktop\\Repositories\\C--Homeworks\\Homeworks Class02\\Homework Class02\\Exercises\\Exercises.csproj": {}
+    "C:\\Users\\Nikola\\Desktop\\Homeworks Class03\\Homework Array and Loops\\Homework Array and Loops\\Homework Array and Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikola\\Desktop\\Repositories\\C--Homeworks\\Homeworks Class02\\Homework Class02\\Exercises\\Exercises.csproj": {
+    "C:\\Users\\Nikola\\Desktop\\Homeworks Class03\\Homework Array and Loops\\Homework Array and Loops\\Homework Array and Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\Repositories\\C--Homeworks\\Homeworks Class02\\Homework Class02\\Exercises\\Exercises.csproj",
-        "projectName": "Exercises",
-        "projectPath": "C:\\Users\\Nikola\\Desktop\\Repositories\\C--Homeworks\\Homeworks Class02\\Homework Class02\\Exercises\\Exercises.csproj",
+        "projectUniqueName": "C:\\Users\\Nikola\\Desktop\\Homeworks Class03\\Homework Array and Loops\\Homework Array and Loops\\Homework Array and Loops.csproj",
+        "projectName": "Homework Array and Loops",
+        "projectPath": "C:\\Users\\Nikola\\Desktop\\Homeworks Class03\\Homework Array and Loops\\Homework Array and Loops\\Homework Array and Loops.csproj",
         "packagesPath": "C:\\Users\\Nikola\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikola\\Desktop\\Repositories\\C--Homeworks\\Homeworks Class02\\Homework Class02\\Exercises\\obj\\",
+        "outputPath": "C:\\Users\\Nikola\\Desktop\\Homeworks Class03\\Homework Array and Loops\\Homework Array and Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikola\\AppData\\Roaming\\NuGet\\NuGet.Config",
