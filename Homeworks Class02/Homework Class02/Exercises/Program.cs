@@ -1,43 +1,43 @@
 ﻿
-#region Task 1 Read Calculator
-Console.WriteLine("===Task 1===");
-Console.WriteLine("Enter first Number: ");
- string firstInput = Console.ReadLine();
-bool parsingFirstInput = int.TryParse(firstInput, out int parsedFirstInput);
+//#region Task 1 Read Calculator
+//Console.WriteLine("===Task 1===");
+//Console.WriteLine("Enter first Number: ");
+// string firstInput = Console.ReadLine();
+//bool parsingFirstInput = int.TryParse(firstInput, out int parsedFirstInput);
 
-Console.WriteLine("Enter Second Number: ");
-string secondInput = Console.ReadLine();
-bool parsingSecondInput = int.TryParse(secondInput, out int parsedSecondInput);
+//Console.WriteLine("Enter Second Number: ");
+//string secondInput = Console.ReadLine();
+//bool parsingSecondInput = int.TryParse(secondInput, out int parsedSecondInput);
 
-Console.WriteLine("Choice matematical operation: ");
+//Console.WriteLine("Choice matematical operation: ");
 
-string mathOperation = Console.ReadLine();
-if (parsingFirstInput == false || parsingSecondInput == false)
-{
-    Console.WriteLine("Your input is not parsed!");
-}
+//string mathOperation = Console.ReadLine();
+//if (parsingFirstInput == false || parsingSecondInput == false)
+//{
+//    Console.WriteLine("Your input is not parsed!");
+//}
 
-if (mathOperation != "+" &&  mathOperation != "-" && mathOperation != "*" && mathOperation != "/")
-{
-    Console.WriteLine("Invalid operation!!!");
-} 
+//if (mathOperation != "+" &&  mathOperation != "-" && mathOperation != "*" && mathOperation != "/")
+//{
+//    Console.WriteLine("Invalid operation!!!");
+//} 
 
-if (mathOperation == "+")
-{
-    Console.WriteLine($"The result is:{parsedFirstInput + parsedSecondInput}");
-}
-else if (mathOperation == "-")
-{
-    Console.WriteLine($" The result is: {parsedFirstInput - parsedSecondInput}");
-}
-else if (mathOperation == "*")
-{
-    Console.WriteLine($" The result is: {parsedFirstInput * parsedSecondInput}");
-}
-else if (mathOperation == "/")
-{
-    Console.WriteLine($" The result is: {parsedFirstInput / parsedSecondInput}");
-}
+//if (mathOperation == "+")
+//{
+//    Console.WriteLine($"The result is:{parsedFirstInput + parsedSecondInput}");
+//}
+//else if (mathOperation == "-")
+//{
+//    Console.WriteLine($" The result is: {parsedFirstInput - parsedSecondInput}");
+//}
+//else if (mathOperation == "*")
+//{
+//    Console.WriteLine($" The result is: {parsedFirstInput * parsedSecondInput}");
+//}
+//else if (mathOperation == "/")
+//{
+//    Console.WriteLine($" The result is: {parsedFirstInput / parsedSecondInput}");
+//}
 
 #endregion
 #region Task 2 AverageNumber
@@ -69,7 +69,10 @@ if(firstSwapNumber == false && secondSwapNumber == false)
 }
 
 Console.WriteLine("Expected results after swaping!!!");
-Console.WriteLine($"First swapedNumber is: {parsedsecondSwapNumber}");
-Console.WriteLine($"Second swapedNumber is: {parsedfirstSwapNumber}");
+int parsedsecondSwapNumber2 = 0;
+parsedfirstSwapNumber = parsedsecondSwapNumber;
+parsedsecondSwapNumber = parsedsecondSwapNumber2;
+Console.WriteLine($"First swapedNumber is: {parsedfirstSwapNumber}");
+Console.WriteLine($"Second swapedNumber is: {parsedsecondSwapNumber}");
 
 #endregion
